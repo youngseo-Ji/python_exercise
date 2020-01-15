@@ -3,8 +3,4 @@ if t>30:                       #기준에 따라 다른 결과
     print("날씨가 덥다")
 else:
     print("날씨가 덥지 않다")
-#3-2
-a=int(input("a의 값:"))  #정수 값들 입력
-b=int(input("b의 값:"))
-c=int(input("c의 값:"))
-print("정렬 전:%d,%d,%d"%(a,b,c))
+
